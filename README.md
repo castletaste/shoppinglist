@@ -14,7 +14,10 @@ I even published it in the app stores.
 link: https://www.notion.so/mygroceriesapp/My-groceries-app-b447dccba9a2460bab98996b8aa9adc2
 
 I used hive (database) and provider packages in the app.
-In the app, when you enter the name of a product, a memoji is automatically assigned to it. For example bread = 🍞 bread 
+In the app, when you enter the name of a product, a memoji is automatically assigned to it. For example bread = 🍞 bread
+
+![shopping list screenshot for github](https://user-images.githubusercontent.com/74972418/115272528-29be0100-a147-11eb-97fb-95e058899683.png)
+
 
 Most of the code was written by me intuitively and from the guides.
 At the time I didn't know too much to do it well. The app works and it's already well 😅
